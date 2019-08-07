@@ -1,2 +1,2 @@
-# astronomical_classification
+# Astronomical Classification
 Multiclass classification for astronomical radiation sources
