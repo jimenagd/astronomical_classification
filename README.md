@@ -9,10 +9,10 @@ This project was inspired and challenged by The Photometric LSST Astronomical Ti
 In very short, it's a challenge in providing The Large Synoptic Survey Telescope (LSST) a way to rapidly classify data it will encounter (20-40 terabytes every night). My intention was to use this open source data to explore machine learning and classification applications. 
 
 # How To Interact With Code
-To interact with the code, you will need to download all the files I have attached. 
+To interact with the code, you will need to download all the ipynb files through Jupyter Notebook and the files in the data folder to get the datasets I work with throughout the project. 
 
-I seperated the project into different sections, representing different steps or ways to approach the data: feature selection, cross validation, logistic regression, multiclass classification, and neural networks.
+I seperated the project into different sections, representing different steps or ways to approach the data. The tutorial is in the order of: feature selection, logistic regression, cross validation, multiclass classification, and neural networks.
 
-The logistic regression file is done in binary classification, while the multiclass is done in multiclass classification using logistic regression. 
+First logistic regression with binary classification is explored, afterward it is done as a multiclass classification, and finally we explore neural networks also as a multiclass classification.
 
 If you wish to only look through certain sections, I recommend always starting with feature selection to understand where the data came from. 
