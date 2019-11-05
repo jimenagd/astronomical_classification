@@ -10,4 +10,9 @@ In very short, it's a challenge in providing The Large Synoptic Survey Telescope
 
 # How To Interact With Code
 To interact with the code, you will need to download all the files I have attached. 
-I seperated the project into different sections, representing different steps or ways to approach the data: feature selection, cross validation, logistic regression, multiclass classification, and neural networks. The logistic regression file is done in binary classification, while the multiclass is done in multiclass classification using logistic regression. If you wish to only look through certain sections, I recommend always starting with feature selection to understand where the data came from. 
+
+I seperated the project into different sections, representing different steps or ways to approach the data: feature selection, cross validation, logistic regression, multiclass classification, and neural networks.
+
+The logistic regression file is done in binary classification, while the multiclass is done in multiclass classification using logistic regression. 
+
+If you wish to only look through certain sections, I recommend always starting with feature selection to understand where the data came from. 
